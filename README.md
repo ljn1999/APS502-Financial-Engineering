@@ -1,6 +1,6 @@
 # APS502-Financial-Engineering
 # Description
-Course project of APS502 at the University of Toronto. 
+Course project of APS502 (Winter 2020) at the University of Toronto. 
 
 Calculated expected returns, standard deviations and co-variances between 8 assets. 
 
