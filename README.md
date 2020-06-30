@@ -7,7 +7,7 @@ Calculated expected returns, standard deviations and co-variances between 8 asse
 Used the mean-variance optimization model to generate an efficient frontier of the assets, also got the optimal weights of the assets.
 
 # Note
-All csv files are downloaded from Yahoo finance.
+All csv files are in Data folder, they were downloaded from Yahoo finance.
 
 xxx_next.csv is just a month later's data of xxx.csv. One csv file for one asset is actually enough.
 
