@@ -8,3 +8,7 @@ Used the mean-variance optimization model to generate an efficient frontier of t
 All csv files are downloaded from Yahoo finance. 
 xxx_next.csv is just a month later's data of xxx.csv.
 Calculations of expected returns, standard deviations and co-variances were done in matlab.
+
+# Contact
+Email: nini.li@mail.utoronto.ca
+or WeChat: Ljn13951644751
