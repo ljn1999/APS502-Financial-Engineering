@@ -14,6 +14,8 @@ xxx_next.csv is just a month later's data of xxx.csv. One csv file for one asset
 Calculations of expected returns, standard deviations and co-variances were done in matlab.
 
 # Contact
+If you find any bugs in my code, or you have any questions, or you just want to chat, please do not hesitate to contact me :)
+
 Email: nini.li@mail.utoronto.ca
 
 or WeChat: Ljn13951644751
